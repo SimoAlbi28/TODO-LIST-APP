@@ -47,10 +47,15 @@ Una volta aggiunta, apparirà un’icona sulla schermata Home e l’app si aprir
 - Quando attive, il browser può inviarti promemoria per le attività programmate;  
 
 6️⃣ **ORDINAMENTO**  
-- Le attività vengono ordinate automaticamente per data e ora;  
+- Le attività vengono ordinate automaticamente per data e ora;
+- Ordinamento (partendo dall'alto) dall'impegno che avverrà + di recente;  
 - Eventuali modifiche all’ora/data aggiornano la posizione nella lista;  
 
 7️⃣ **STILE E INTERFACCIA**  
 - App mobile-friendly, colori chiari e pulsanti intuitivi;  
 - Attività completate o scadute evidenziate in rosso;  
-- Tutto centrato e leggibile, adatto per ogni smartphone.  
+- Tutto centrato e leggibile, adatto per ogni smartphone.
+
+
+<img width="936" height="960" alt="image" src="https://github.com/user-attachments/assets/9d3020fa-858a-4174-9794-1af80bfce43e" />
+
