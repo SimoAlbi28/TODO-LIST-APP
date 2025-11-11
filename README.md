@@ -56,6 +56,7 @@ Una volta aggiunta, apparirà un’icona sulla schermata Home e l’app si aprir
 - Attività completate o scadute evidenziate in rosso;  
 - Tutto centrato e leggibile, adatto per ogni smartphone.
 
+---
 
 <img width="381" height="838" alt="image" src="https://github.com/user-attachments/assets/c18e38a0-6b5e-4220-9528-a22b17358c69" />
 
