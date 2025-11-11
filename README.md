@@ -57,5 +57,6 @@ Una volta aggiunta, apparirà un’icona sulla schermata Home e l’app si aprir
 - Tutto centrato e leggibile, adatto per ogni smartphone.
 
 
-<img width="936" height="960" alt="image" src="https://github.com/user-attachments/assets/9d3020fa-858a-4174-9794-1af80bfce43e" />
+<img width="381" height="838" alt="image" src="https://github.com/user-attachments/assets/c18e38a0-6b5e-4220-9528-a22b17358c69" />
+
 
